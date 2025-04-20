@@ -1,8 +1,42 @@
 # **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin & Replit Agent System Prompts, Tools & AI Models**  
 
-🚀 **I managed to obtain FULL official v0, Manus, Cursor, Same.dev, Lovable, Devin & Replit Agent system prompts and internal tools.**
+🚀 **FULL official v0, Manus, Cursor, Same.dev, Lovable, Devin & Replit Agent system prompts and internal tools.**
 
 📜 Over **5,500+ lines** of insights into their structure and functionality.  
+
+## 🔍 **Technical Overview**
+
+This repository contains detailed system prompts and tool configurations used by various AI coding assistants. Each system has unique approaches to code generation, analysis, and developer interaction.
+
+### **Key Components**
+
+#### **System Prompts**
+- Detailed instructions that define AI behavior and capabilities
+- Context management strategies
+- Response formatting guidelines
+- Error handling protocols
+- Security and safety measures
+
+#### **Tool Configurations**
+- Function calling specifications
+- Parameter validation rules
+- Tool selection logic
+- Response processing pipelines
+- Integration patterns with development environments
+
+#### **Model Interactions**
+- Context window management
+- Token usage optimization
+- Multi-turn conversation handling
+- Code context preservation
+- Error recovery mechanisms
+
+### **Architecture Patterns**
+- Modular prompt design
+- Hierarchical instruction sets
+- Dynamic context injection
+- Tool orchestration strategies
+- State management approaches
 
 ## 📂 **Available Files**
 - **v0 Folder**  
@@ -11,8 +45,6 @@
 - **Devin Folder**
 - **Replit Folder**
 - **Cursor Folder**  
-   - cursor ask.txt *(coming soon!)*  
-   - cursor edit.txt *(coming soon!)*  
 
 ---
 
@@ -23,17 +55,12 @@
 🔐 **Interested in securing your AI systems?**  
 Check out **ZeroLeaks**, a service designed to help startups **identify and secure** leaks in system instructions, internal tools, and model configurations. **Get a free AI security audit** to ensure your AI is protected from vulnerabilities.
 
-🔗 **Contact Us here:** 
-
-- X: NotLucknite
 ---
 
 ## 🛠 **Roadmap & Feedback**
 
-🚨 **Note:** We no longer use GitHub issues for roadmap and feedback.  
-Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) to share your suggestions and track upcoming features.
-
-🆕 **LATEST UPDATE:** 19/04/2025 
+🚨 **Note:** Use GitHub issues for roadmap and feedback.  
+Please visit [GitHub Issues](https://github.com/makalin/system-prompts-and-models-of-ai-tools/issues) to share your suggestions and track upcoming features.
 
 ## 📊 **Star History**
 
@@ -45,22 +72,11 @@ Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featureba
  </picture>
 </a>
 
-## ❤️ Support the Project
-
-If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project. Your contribution helps keep this resource updated and allows for further exploration.
-
-You can show your support via:
-
-*   **PayPal:** `lucknitelol@proton.me`
-*   **Cryptocurrency:**
-    *   **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`
-    *   **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`
-
-Thank you for your support! 🙏
-
-
 ## 🔗 **Connect With Me**  
-✖ **X:** [NotLucknite](https://x.com/NotLucknite)  
-💬 **Discord:** `x1xh`  
+✖ **X:** [@makalin](https://x.com/makalin)  
+💬 **Discord:** `makalin`  
 
 ⭐ **Drop a star if you find this useful!**
+
+## 🙏 **Credits**
+This repository is a fork of [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools). All credit for the original collection and research goes to the original author [@NotLucknite](https://x.com/NotLucknite).
